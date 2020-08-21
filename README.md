@@ -3,7 +3,7 @@
 
 Clone this repo using:
 
-`$ git clone https://github.com/shashanka2a/Tribal-Ecom.git`
+`$ git clone https://github.com/sriharsha-vangala/Ecom-Store`
 
 Configure the virtual environment:
 
