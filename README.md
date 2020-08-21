@@ -7,10 +7,12 @@ Clone this repo using:
 
 Configure the virtual environment:
 
-
-$ cd Tribal-Ecom
+'''
+$ cd Ecom-Store
 $ pip install virtualenv
 $ source venv/bin/activate
+
+'''
 
 
 Now,install the project dependencies in venv using:
